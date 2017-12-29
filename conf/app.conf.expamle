@@ -1,0 +1,12 @@
+appname = running
+httpport = 9001
+runmode = dev
+
+#database
+dbtype = "mysql"
+dbuser = "running"
+dbpass = "runnning_pass"
+dbhost = "127.0.0.1"
+dbport = 3306
+dbname = "runninglife"
+dbprefix = ""
